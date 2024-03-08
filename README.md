@@ -41,7 +41,7 @@ Các Feature về bối cảnh kinh tế sẽ đc giữ nguyên để đánh gi�
 
 __Mô hình cơ bản__
 
-Mô hình dùng để dự đoán là __RandomForest – Classifier__ với các chỉ số _Default_, để đánh giá độ chính xác của mô hình thì ta sẽ áp dụng chỉ số __Recall__
+Mô hình dùng để dự đoán là __RandomForest – Classifier__ với các chỉ số _Default_, áp dụng chỉ số __Recall__ để đánh giá độ chính xác của mô hình 
 
 __Recall = TP/(TP + FN)__
 
