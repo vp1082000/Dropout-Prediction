@@ -96,6 +96,7 @@ _Thông số mô hình tối ưu_
 
 
 ![CFhyper](https://github.com/vp1082000/Dropout-Prediction/assets/143709845/71552bf5-3b2e-497a-9a1b-05584d2a2646)
+
 Kết quả của mô hình:
 - Recall on model:  0.814  ->  0.852
 - Dự báo bỏ học đúng (TP):  tăng 337  ->  353
