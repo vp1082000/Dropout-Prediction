@@ -64,7 +64,7 @@ __Mức ảnh hưởng của các yếu tố__
 - Nhóm bối cảnh kinh tế: các Feature ít có đóng góp (dưới 0.025)
 - Nhóm nhân khẩu học: các Feature ít có đóng góp (dưới 0.025), ngoại trừ Feature về độ tuổi nhập học (Age at enrollment) có ảnh hưởng tới khả năng dự đoán của máy
 
-![Age](https://github.com/vp1082000/Dropout-Prediction/assets/143709845/8a34c7a5-9208-499e-b515-4bbd29304287)
+![Age](https://github.com/vp1082000/Dropout-Prediction/assets/143709845/1973d069-545a-43bf-a5d1-1869bbca1eb3)
 Nhận Xét về Độ tuổi nhập học:
 1. Từ 18-20 tuổi, sinh viên có tỉ lệ bỏ học/tốt nghiệp ~30%, xuất phát từ việc chọn sai ngành nghề
 => Nên có tự vấn trước khi nhập học và kể cả khi đã nhập học để giúp sinh viên chuyển sang ngành học khác trong trường thay vì bỏ học
